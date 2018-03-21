@@ -66,9 +66,10 @@ body,html{
 .ptext .body.trans{
   background-color:transparent;
 }
-
+/*
 @media(max-width:560px){
     .pimg1, .pimg2, .pimg3{
       background-attachment: scroll;
     }
 }
+*/
